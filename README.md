@@ -44,3 +44,7 @@ Pacific Ocean:
 - https://www.soest.hawaii.edu/soestwp/announce/news/study-reveals-how-volcanic-eruptions-affect-el-nino/
 - https://www.climate.gov/news-features/blogs/enso/has-climate-change-already-affected-enso#:~:text=The%20warmer%20surface%20layer%20enhances,and%20La%20Ni%C3%B1a%20more%20extreme.
 - https://sealevel.nasa.gov/faq/10/how-does-el-nino-fit-into-the-sea-level-rise-picture/
+- (Mahapatra, S., & Mishra, S. (2023). The Indian Ocean's warming and its impact on regional sea level rise. Global and Planetary Change. https://doi.org/10.1016/j.gloplacha.2023.104239)
+- Harman, C. (2023). An analysis of sea level rise patterns and contributing factors. Scientific Reports, 13, Article 48136. https://doi.org/10.1038/s41598-023-48136-y
+- “2022 Sea Level Rise Technical Report.” NOAA’s National Ocean Service, 15 Feb. 2022, oceanservice.noaa.gov/hazards/sealevelrise/sealevelrise-tech-report.html#:~:text=About%202%20feet%20(0.6%20meters,the%20end%20of%20this%20century.
+- Lindsey, Rebecca. “Climate Change: Global Sea Level.” NOAA Climate.Gov, 19 Apr. 2022, www.climate.gov/news-features/understanding-climate/climate-change-global-sea-level#:~:text=The%20rising%20water%20level%20is,record%20(1993%2Dpresent). 
